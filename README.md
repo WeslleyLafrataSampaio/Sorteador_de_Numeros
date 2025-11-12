@@ -13,6 +13,7 @@ A aplicação web permite ao usuário definir um intervalo numérico (mínimo e 
 
 ![Prévia do projeto](img/image.png)
 
+🌐 **Acesse o projeto online:** [sorteador-de-numeros-nine-taupe.vercel.app](https://sorteador-de-numeros-nine-taupe.vercel.app)
 ---
 
 ## ✨ Funcionalidades Principais
@@ -65,7 +66,9 @@ Este projeto é composto apenas por arquivos **front-end** (HTML, CSS e JavaScri
 1. Clone este repositório:
    ```bash
    git clone https://github.com/WeslleyLafrataSampaio/Sorteador_de_Numeros
-Abra o arquivo index.html em qualquer navegador web.
+2. Abra o arquivo index.html em qualquer navegador web.
+
+---
 
 🧑‍💻 Autor
 Weslley Lafrata Sampaio
